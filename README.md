@@ -1,8 +1,7 @@
 # England Korfball League Predictions
 
----
 
-##### *Various Approaches to Predicting the Completion of the 2019/20 England Korfball League*
+#### *Various Approaches to Predicting the Completion of the 2019/20 England Korfball League*
 
 
 - [Korfball Game-By-Game Predictions](https://nbviewer.jupyter.org/github/andy-buv/england-korfball-league-predictions/blob/master/notebooks/Korfball%20Game-By-Game%20Predictions.ipynb) - Using feature engineering and KNN to simulate the results and league table.
